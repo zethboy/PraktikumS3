@@ -1,0 +1,4 @@
+Hari: Senin
+Jam 1: Kalkulus 1
+Jam 2: Matematika Diskrit
+Jam 3: Aljabar Linear dan Matriks
